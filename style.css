@@ -1,0 +1,32 @@
+table{
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 200px;
+    border-collapse: collapse;
+    width: 600px;
+
+}
+
+th{
+    border: 1px solid black; 
+    height: 40px;
+    font-size: 20px;
+    width: 30px;
+    padding: 15px;
+  
+    
+}
+td{
+    border: 1px solid black; 
+    border-collapse:collapse;
+    text-align: center;
+}
+.table-head{
+    background-color: rgb(253, 253, 0);
+}
+.l-side{
+    background-color: grey;
+}
+.r-side{
+    background-color: rgb(249, 195, 195);
+}
